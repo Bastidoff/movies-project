@@ -1,0 +1,14 @@
+# Archivos generales
+*.log
+*.tmp
+*.db
+
+# Backend (.NET)
+bin/
+obj/
+*.sqlite
+
+# Frontend (Node)
+node_modules/
+dist/
+.env
