@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\02-Programation\\03-Proyectos\\Pelis\\source\\PelisApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\02-Programation\\03-Proyectos\\Pelis\\source\\pelis_api\\PelisApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{885122B1-0EF3-4409-9A1A-54EAFE8CD208}|PelisApp.Tests\\PelisApp.Tests.csproj|d:\\02-programation\\03-proyectos\\pelis\\source\\pelis_api\\pelisapp\\pelisapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885122B1-0EF3-4409-9A1A-54EAFE8CD208}|PelisApp.Tests\\PelisApp.Tests.csproj|solutionrelative:pelisapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F182CB-D9C7-406C-BC8E-1D9698AC79DF}|PelisApp.Infraestructure\\PelisApp.Infraestructure.csproj|d:\\02-programation\\03-proyectos\\pelis\\source\\pelis_api\\pelisapp\\pelisapp.infraestructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F182CB-D9C7-406C-BC8E-1D9698AC79DF}|PelisApp.Infraestructure\\PelisApp.Infraestructure.csproj|solutionrelative:pelisapp.infraestructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0831DF81-877C-4031-9235-8558BCF22508}|PelisApp.Core\\PelisApp.Core.csproj|d:\\02-programation\\03-proyectos\\pelis\\source\\pelis_api\\pelisapp\\pelisapp.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0831DF81-877C-4031-9235-8558BCF22508}|PelisApp.Core\\PelisApp.Core.csproj|solutionrelative:pelisapp.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\02-Programation\\03-Proyectos\\Pelis\\source\\pelis_api\\PelisApp\\PelisApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PelisApp.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\02-Programation\\03-Proyectos\\Pelis\\source\\pelis_api\\PelisApp\\PelisApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "PelisApp.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:22:38.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\02-Programation\\03-Proyectos\\Pelis\\source\\pelis_api\\PelisApp\\PelisApp.Infraestructure\\Class1.cs",
+              "RelativeDocumentMoniker": "PelisApp.Infraestructure\\Class1.cs",
+              "ToolTip": "D:\\02-Programation\\03-Proyectos\\Pelis\\source\\pelis_api\\PelisApp\\PelisApp.Infraestructure\\Class1.cs",
+              "RelativeToolTip": "PelisApp.Infraestructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:21:56.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\02-Programation\\03-Proyectos\\Pelis\\source\\pelis_api\\PelisApp\\PelisApp.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "PelisApp.Core\\Class1.cs",
+              "ToolTip": "D:\\02-Programation\\03-Proyectos\\Pelis\\source\\pelis_api\\PelisApp\\PelisApp.Core\\Class1.cs",
+              "RelativeToolTip": "PelisApp.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:21:17.017Z",
+              "EditorCaption": ""
             }
           ]
         }
